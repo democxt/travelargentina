@@ -1,5 +1,5 @@
 <?php 
  echo "I am VERSION 1 <br><br>";                                                
- echo "My Pod is : " ;                                                          
+ echo "My Pod ID is : " ;                                                          
  echo gethostname();                                                            
  ?>
